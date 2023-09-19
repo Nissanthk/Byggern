@@ -38,5 +38,5 @@ void SRAM_test(void)
 	}
 
 	printf("SRAM test completed with \r\n%4d errors in write phase and \r\n%4d errors in retrieval phase\r\n\r\n", write_errors, retrieval_errors);
-		
+	
 }
