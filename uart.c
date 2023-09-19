@@ -45,5 +45,3 @@ void uart_tester(void) {
 	//printf("\nhello!\n");
 	
 }
-
-
